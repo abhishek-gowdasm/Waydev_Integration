@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abhishek.sm\\Downloads\\WPF-Deployment\\WPF-Deployment\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\adminuser\\Waydev_Integration\\WPF-Deployment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EFD4A-F119-4C1B-BBDE-CC9FA5C80A87}|OrderManagementSystem\\OrderManagementSystem.csproj|c:\\users\\adminuser\\waydev_integration\\wpf-deployment\\ordermanagementsystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EFD4A-F119-4C1B-BBDE-CC9FA5C80A87}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\adminuser\\Waydev_Integration\\WPF-Deployment\\OrderManagementSystem\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\adminuser\\Waydev_Integration\\WPF-Deployment\\OrderManagementSystem\\Services\\CustomerService.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Services\\CustomerService.cs",
+              "ViewState": "AgIAADYAAAAAm5mZmZkLwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:13:02.777Z",
+              "EditorCaption": ""
             }
           ]
         }

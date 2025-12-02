@@ -17,6 +17,7 @@ namespace OrderManagementSystem.Services
             _mapper = mapper;
         }
 
+        //Get all customers
         public async Task<IEnumerable<CustomerDto>> GetAllCustomersAsync()
         {
             try

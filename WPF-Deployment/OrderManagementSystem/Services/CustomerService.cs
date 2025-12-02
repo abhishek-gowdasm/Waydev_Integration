@@ -17,6 +17,7 @@ namespace OrderManagementSystem.Services
             _mapper = mapper;
         }
 
+        // The improved GetAllCustomersAsync method with enhanced logging and error handling
         //Get all customers
         public async Task<IEnumerable<CustomerDto>> GetAllCustomersAsync()
         {
